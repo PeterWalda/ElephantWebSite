@@ -1,4 +1,4 @@
-﻿import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomePage from './HomePage';
 import DietInformation from './DietInformation';
 import MatingReproduction from './MatingReproduction';
